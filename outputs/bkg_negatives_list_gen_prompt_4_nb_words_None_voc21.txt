@@ -1,0 +1,21 @@
+background
+background, cloud, sky, runway, airport, bird, building, cityscape, contrail
+background, road, tree, person, park, building, grass, basket, helmet, traffic, path
+background, cage, tree, sky, grass, feeder
+background, water, dock, sea, wave, beach, person, fishing rod, seagull, life jacket, buoy
+background, table, wine glass, refrigerator, food, can, cup, corkscrew
+background, road, tree, building, sky, person, car, traffic light, bicycle, parking meter, street sign
+background, road, tree, building, person, parking
+background, dog, mouse, human, blanket, couch, food bowl, toy
+background, table, person, sofa, carpet, lamp
+background, grass, barn, fence, farmer, field, tractor, sky, animal, tree, pond
+background, chair, plate, glass, bottle, person, napkin, candle, flower vase, tablecloth, electric appliance
+background, person, grass, tree, park, ball, cat, car, frisbee, stick, bone
+background, rider, barn, fence, field, hay, saddle, bridle, pasture, tractor, stable
+background, road, person, bike, tree, building, car, park, sky, street
+background, bike, road, car, tree, building, park, cityscape, nature, animal, sports equipment
+background, window, table, floor, balcony, sofa
+background, grass, farm, tree, fence, animal, field, sky, trough, barn, shepherd
+background, television, carpet, table, lamp, coffee_table, plant, curtain, window, pillow, remote
+background, track, grass, sky, building, platform, tree, sign, person, car, road
+background, couch, remote, stand, wall, cable, lamp, decoration, person, rug

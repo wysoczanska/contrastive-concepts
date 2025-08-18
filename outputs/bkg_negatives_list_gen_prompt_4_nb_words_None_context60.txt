@@ -1,0 +1,60 @@
+background, building, sky, tree, person, vehicle, road, field, water, mountain, fence
+background, cloud, sky, runway, airport, bird, building, cityscape, contrail
+background, person, ground, car, store, shopping mall, sidewalk, street, supermarket, grocery store, hand
+background, person, pillow, blanket, nightstand, lamp, wardrobe, curtain, rug, toy, book
+background, pillow, blanket, sheet, bed, room, pajamas, nightstand, lamp
+background, tree, park, grass, path, person, bicycle, lamp post, trash can, flower bed
+background, road, tree, person, park, building, grass, basket, helmet, traffic, path
+background, cage, tree, sky, grass, feeder
+background, water, dock, sea, wave, beach, person, fishing rod, seagull, life jacket, buoy
+background, person, table, chair, glasses, newspaper, desk, shelf, laptop, light, coffee
+background, table, wine glass, refrigerator, food, can, cup, corkscrew
+background, sky, tree, road, car, park, people, lane, fence, house, field
+background, road, tree, building, sky, person, car, traffic light, bicycle, parking meter, street sign
+background, wall, floor, table, chair, lamp, computer, printer, bookshelf, television, remote control
+background, road, tree, building, person, parking
+background, dog, mouse, human, blanket, couch, food bowl, toy
+background, wall, floor, light, roof, window, beam, pillar, vent, duct
+background, table, person, sofa, carpet, lamp
+background, table, chair, basket, laundry, floor, bed, rack, window, wall
+background, desk, chair, keyboard, mouse, monitor, cable, printer, laptop, coffee cup, notebook
+background, grass, barn, fence, farmer, field, tractor, sky, animal, tree, pond
+background, table, saucer, spoon, coffee, tea, milk, sugar, hand, fridge, counter
+background, window, wall, room, floor, ceiling, rod, tieback, fabric, pleat
+background, person, grass, tree, park, ball, cat, car, frisbee, stick, bone
+background, wall, floor, window, house, furniture, building, stairs, roof, garden
+background, grass, tree, house, car, path, post, gate, field, flowers, animals
+background, wall, door, furniture, rug, people, animal, toy, trashcan, window, light
+background, vase, garden, grass, tree, person, park, outdoor, butterfly, bees, potted plant
+background, plate, table, chair, hand, spoon, cup, napkin, bottle, counter, refrigerator
+background, tree, flower, sky, path, park, field, animal, person, squirrel, butterfly
+background, building, tree, sky, car, person, fence, pond, flower, path, hill
+background, rider, barn, fence, field, hay, saddle, bridle, pasture, tractor, stable
+background, computer, mouse, screen, table, hand, cable
+background, wall, switch, cord, lamp, ceiling, room, darkness, bulb, electricity
+background, road, person, bike, tree, building, car, park, sky, street
+background, lake, sky, tree, sun, cloud, snow, person, animal, river, valley
+background, cheese, cat, keyboard, cable, floor
+background, bike, road, car, tree, building, park, cityscape, nature, animal, sports equipment
+background, table, food, fork, spoon, knife, cup, napkin, cloth, counter, shelf
+background, building, train, track, rail, ladder, sky, ground, support beam, pipe, fence
+background, window, table, floor, balcony, sofa
+background, building, tree, car, pedestrian, sky, streetlight, sidewalk, bicycle, parked car, traffic sign
+background, water, tree, sky, ground, climber, path, river, mountain, hand, animal
+background, grass, farm, tree, fence, animal, field, sky, trough, barn, shepherd
+background, wall, floor, books, boxes, furniture, room, carpet, decorations, plants, lighting
+background, building, street, car, tree, people, bike, road, park, sky, lane
+background, pole, street, building, sky, road
+background, tree, building, cloud, sun, bird, airplane, mountain, sea, sunset, cityscape
+background, tree, mountain, ski, sled, winter, sky, animal tracks, pine tree, cold
+background, television, carpet, table, lamp, coffee_table, plant, curtain, window, pillow, remote
+background, chair, plate, cup, napkin, bottle, flower vase, candle, computer, television, books
+background, bicycle, road, car, bike, path, park, forest, field, street, trail
+background, track, grass, sky, building, platform, tree, sign, person, car, road
+background, forest, grass, sky, sun, bird, leaf, river, mountain, fence, path
+background, road, car, building, tree, parking
+background, couch, remote, stand, wall, cable, lamp, decoration, person, rug
+background, door, window, floor, ceiling, painting, light, chair, table, carpet, curtain
+background, beach, ocean, pool, tap, plant, person, ice, boat, fish, glass
+background, building, tree, curtain, blinds, brick, wall, house, car, sky, road
+background, tree, forest, log, cabin, fence
