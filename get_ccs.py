@@ -1,4 +1,7 @@
 """
+authors: Monika Wysoczanska, Warsaw University of Technology
+----------------------------------------------------------------------------------
+
 Contrastive Concepts discovery based on pre-training dataset statistics.
 
 This module finds contrastive concepts (negative examples) for given prompts using
@@ -434,7 +437,6 @@ if __name__ == '__main__':
         help="Co-occurrence threshold: concepts with normalized co-occurrence > gamma are considered"
     )
 
-
     parser.add_argument(
         "--parts_filter_file",
         type=str,
@@ -461,7 +463,6 @@ if __name__ == '__main__':
         default='cuda',
         help='Device for computation (cuda or cpu)'
     )
-
 
     args = parser.parse_args()
     main(args)
