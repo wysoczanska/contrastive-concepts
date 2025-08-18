@@ -1,5 +1,5 @@
 """
-Semantic Complement Discovery using CLIP Embeddings
+Contrastive Concepts discovery based on pre-training dataset statistics.
 
 This module finds contrastive concepts (negative examples) for given prompts using
 CLIP embeddings and co-occurrence statistics.
