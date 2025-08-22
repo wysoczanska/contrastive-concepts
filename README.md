@@ -40,3 +40,18 @@ If you wish to extract CCs for arbitrary prompts simply prepare an input .txt fi
 python get_ccs.py --vocab_file laion400m_lemmatized.pkl --results_dir outputs --filter_file laion_concepts_map_v5.json --prompts_file [YOUR PROMPT FILE] --gamma 0.01 --delta 0.8
 ```
 
+
+### Credits
+
+If you find this repo useful please consider citing our work:
+
+```
+@article{
+wysocza{\'n}ska2025testtime,
+title={Test-time Contrastive Concepts for Open-world Semantic Segmentation with Vision-Language Models},
+author={Monika Wysocza{\'n}ska and Antonin Vobecky and Amaia Cardiel and Tomasz Trzcinski and Renaud Marlet and Andrei Bursuc and Oriane Sim{\'e}oni},
+journal={TMLR},
+year={2025},
+url={https://openreview.net/forum?id=wyOv4kGkbU},
+}
+```
